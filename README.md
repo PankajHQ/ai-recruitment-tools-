@@ -6,7 +6,7 @@
 ## EasySource
 
 #### EasySource is an AI-powered automation tool that makes the process of talent sourcing a piece of cake. With the wide array of AI-recommended filters, you can source the best candidates for your sales and marketing teams from anywhere in the US region with relevant skills and experience in no time.
-[Visit](https://www.hirequotient.com/easysource-candidate-sourcing-tool?utm_source=pankaj&utm_medium=github&utm_campaign=aitools)
+[Visit](https://www.hirequotient.com/products/easysource-candidate-sourcing-tool?utm_source=pankaj&utm_medium=github&utm_campaign=aitools)
 
 
 [More Information and Pricing](https://www.hirequotient.com/pricing/easy-source-pricing?utm_source=pankaj&utm_medium=github&utm_campaign=aitools)
